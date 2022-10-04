@@ -1,0 +1,5 @@
+train: C:\Users\draden\Downloads\yolov5\images\train\images
+val: C:\Users\draden\Downloads\yolov5\images\valid\images
+
+nc: 14
+names: [ 'Scissors', 'Screwdriver', 'Slotted screwdriver', 'flat file', 'hammer', 'multimeter', 'pincer', 'plier', 'spanner 10-12', 'spanner 12-14', 'spanner 12mm', 'spanner 13-15', 'spanner 14mm', 'test pen' ]
